@@ -51,14 +51,13 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
-footer a {
+a {
     color: rgb(255, 255, 255);
-    text-decoration: none;
 }
-footer a:visited {
+a:visited {
     color: rgb(193, 234, 251);
 }
-footer a:hover {
+a:hover {
     color: rgb(245, 178, 168); 
 }
 
